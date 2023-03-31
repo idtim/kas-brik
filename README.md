@@ -1,4 +1,4 @@
 # Kas Brik
 
-Code for a breakout prototype
+Code d'un prototype de casse brique
 https://idtim.itch.io/kas-brik
