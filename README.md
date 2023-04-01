@@ -1,4 +1,3 @@
 # Kas Brik
 
-Code d'un prototype de casse brique
-https://idtim.itch.io/kas-brik
+Prototype de casse brique codé en **LUA** avec le framework **Löve2D** https://idtim.itch.io/kas-brik
