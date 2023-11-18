@@ -1,3 +1,3 @@
 # Kas Brik
 
-Prototype de casse brique codé en **LUA** avec le framework **Löve2D** https://idtim.itch.io/kas-brik
+Bricks breaker prototype coded in **LUA** with **Löve2D** framework https://idtim.itch.io/kas-brik
